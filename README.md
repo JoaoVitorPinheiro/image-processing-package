@@ -2,12 +2,15 @@
 
 Pacote **image-processing-package**:
 
-**Módulo Processing**:
+## [Test PyPI](https://test.pypi.org/project/pct-processamento-imagens/0.0.1/)
+## [PyPI](https://pypi.org/project/pct-processamento-imagens/0.0.1/)
+
+**Modulo Processing**:
   * Correspondência de histograma;
   * Similaridade estrutural;
   * Redimensionar imagem;
   
-**Módulo Utils**:
+**Modulo Utils**:
 
   * Ler imagem;
   * Salvar imagem;
@@ -18,5 +21,4 @@ Pacote **image-processing-package**:
 # Autor 
 
 João Vitor
-
 --- 
