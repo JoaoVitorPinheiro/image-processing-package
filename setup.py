@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image-processing-package",
+    name="pct-processamento-imagens",
     version="0.0.1",
     author="João Vitor Pinheiro da Costa",
     author_email="joaovpro17@gmail.com",
-    description="Image processing . This project belongs to Karina Tiemi Kato, Tech Lead, Machine Learning Engineer, Data Scientist Specialist at Take. This package is a demo for simulation of upload on the Test Pypi website, and it's from class of the Bootcamp developer full stack Python. E-mail:karinatkato@gmail.com.",
+    description="Image processing",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/JoaoVitorPinheiro/image-processing-package",
